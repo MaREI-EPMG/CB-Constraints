@@ -1,4 +1,10 @@
 {
-  "no_mitigation": "No Mitigation",
-  "another_scenario": "Another Scenario"
+  "carbon-budget-250mt-bau-new": "carbon-budget-250mt-bau-new",
+  "carbon-budget-300mt-bau-new": "carbon-budget-300mt-bau-new",
+  "carbon-budget-350mt-bau-new": "carbon-budget-350mt-bau-new",
+  "carbon-budget-400mt-bau-new": "carbon-budget-400mt-bau-new",
+  "carbon-budget-450mt-bau-new": "carbon-budget-450mt-bau-new",
+  "carbon-budget-250mt-led-new": "carbon-budget-250mt-led-new",
+  "carbon-budget-300mt-led-new": "carbon-budget-300mt-led-new",
+  "carbon-budget-350mt-led-new": "carbon-budget-350mt-led-new",
 }
